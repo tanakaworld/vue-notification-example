@@ -1,7 +1,9 @@
 <template>
   <div>
     <nuxt/>
-    <notifications group="test1"/>
+    <notifications
+      group="test1"
+      position="bottom right"/>
   </div>
 </template>
 
